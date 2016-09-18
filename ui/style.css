@@ -1,4 +1,3 @@
-/* A Free Design by Bryant Smith (bryantsmith.com) */
 
 html, body {
 text-align: center;
@@ -36,7 +35,7 @@ padding-top:63px;
 padding-left:30px;
 padding-right:30px;
 
-background-repeat:no-repeat;
+
 height:122px;
 width:753px;
 overflow:hidden;
@@ -86,7 +85,6 @@ height:44px;
 margin-top:20px;
 margin-left:0px;
 margin-right:25px;
-background-image:url(tab_back.png);
 background-repeat:no-repeat;
 
 }
@@ -118,20 +116,10 @@ text-decoration:none;
 color:#F1F3F8;
 }
 
-a:hover
-{
-border-bottom:1px dotted #F1F3F8;
-}
 
 
-#footer {
-width: 750px;
-height:20px;
-text-align:center;
-font-size:9px;
-color:#223F8D;
-padding-top:20px;
-}
+
+
 
 html, body {
 text-align: center;
